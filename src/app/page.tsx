@@ -1039,9 +1039,54 @@ export default function Portal() {
                         Next →
                       </button>
                     ) : (
-                      <div className="text-[9px] sm:text-[10px] font-bold text-emerald-600 bg-emerald-50 border border-emerald-100 px-3 py-2 sm:px-4 sm:py-2.5 rounded-xl animate-pulse">
-                        ✓ Complete on right
-                      </div>
+                      <>
+                        {/* Desktop Only Banner */}
+                        <div className="hidden lg:block text-[9px] sm:text-[10px] font-bold text-emerald-600 bg-emerald-50 border border-emerald-100 px-3 py-2 sm:px-4 sm:py-2.5 rounded-xl animate-pulse">
+                          ✓ Complete on right
+                        </div>
+                        {/* Mobile Only Submit Button */}
+                        <button
+                          type="button"
+                          onClick={() => {
+                            const ans = answers[activeQuestion.code];
+                            if (ans && ans.score === 'N/A' && !ans.justification.trim()) {
+                              triggerAlert('Justification Required', 'Remarks justification is required for N/A questions.');
+                              return;
+                            }
+                            
+                            if (isAuditComplete) {
+                              fetch('/api/audit', {
+                                method: 'POST',
+                                headers: { 'Content-Type': 'application/json' },
+                                body: JSON.stringify({
+                                  profile,
+                                  answers,
+                                  grs: GRS,
+                                  band: bandInfo.band
+                                })
+                              })
+                              .then(res => res.json())
+                              .then(data => {
+                                if (data.success) {
+                                  setStep('report');
+                                  setShowMobileDrawer(false);
+                                } else {
+                                  triggerAlert('Error', 'Failed to save audit responses to the database.');
+                                }
+                              })
+                              .catch(err => {
+                                triggerAlert('Error', 'Network error. Failed to save audit responses.');
+                              });
+                            } else {
+                              triggerAlert('Audit Incomplete', 'Please complete all 20 diagnostic questions before generating the snapshot report.');
+                            }
+                          }}
+                          className="lg:hidden px-5 py-2.5 bg-indigo-600 hover:bg-indigo-700 text-white font-bold rounded-xl transition cursor-pointer flex items-center gap-1.5 shadow-md active:scale-95 text-[11px] sm:text-xs"
+                        >
+                          <CheckIcon className="w-3.5 h-3.5 shrink-0" />
+                          <span>Submit Audit</span>
+                        </button>
+                      </>
                     )}
                   </div>
                 </div>
