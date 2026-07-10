@@ -1,0 +1,198 @@
+[
+  {
+    "id": "1783501113607",
+    "submittedAt": "2026-07-08T08:58:33.607Z",
+    "profile": {
+      "name": "Second Brain Ventures",
+      "website": "https://alumni.mitsgwalior.in",
+      "employees": "300",
+      "locations": "Gwalior",
+      "contactPerson": "Harsh Manmade",
+      "email": "harshmanmode79@gmail.com",
+      "mobile": "8305721431",
+      "industry": "A"
+    },
+    "answers": {
+      "G1": {
+        "score": 3,
+        "justification": ""
+      },
+      "G2": {
+        "score": 3,
+        "justification": ""
+      },
+      "G3": {
+        "score": 2,
+        "justification": ""
+      },
+      "G4": {
+        "score": 1,
+        "justification": ""
+      },
+      "G5": {
+        "score": 2,
+        "justification": ""
+      },
+      "G6": {
+        "score": 1,
+        "justification": ""
+      },
+      "G7": {
+        "score": 2,
+        "justification": ""
+      },
+      "G8": {
+        "score": 3,
+        "justification": ""
+      },
+      "G9": {
+        "score": 2,
+        "justification": ""
+      },
+      "G10": {
+        "score": 0,
+        "justification": ""
+      },
+      "G11": {
+        "score": 0,
+        "justification": ""
+      },
+      "G12": {
+        "score": 1,
+        "justification": ""
+      },
+      "G13": {
+        "score": 1,
+        "justification": ""
+      },
+      "G14": {
+        "score": 0,
+        "justification": ""
+      },
+      "G15": {
+        "score": 0,
+        "justification": ""
+      },
+      "G16": {
+        "score": 0,
+        "justification": ""
+      },
+      "G17": {
+        "score": 0,
+        "justification": ""
+      },
+      "G18": {
+        "score": 3,
+        "justification": ""
+      },
+      "G19": {
+        "score": 3,
+        "justification": ""
+      },
+      "G20": {
+        "score": 3,
+        "justification": ""
+      }
+    },
+    "grs": 50,
+    "band": "Aware"
+  },
+  {
+    "id": "1783672542988",
+    "submittedAt": "2026-07-10T08:35:42.989Z",
+    "profile": {
+      "name": "Second Brain Ventures",
+      "website": "https://alumni.mitsgwalior.in",
+      "employees": "300",
+      "locations": "Gwalior",
+      "contactPerson": "Harsh Manmade",
+      "email": "harshmanmode79@gmail.com",
+      "mobile": "8305721431",
+      "industry": "A"
+    },
+    "answers": {
+      "G1": {
+        "score": 2,
+        "justification": ""
+      },
+      "G2": {
+        "score": 2,
+        "justification": ""
+      },
+      "G3": {
+        "score": 2,
+        "justification": ""
+      },
+      "G4": {
+        "score": 1,
+        "justification": ""
+      },
+      "G5": {
+        "score": 2,
+        "justification": ""
+      },
+      "G6": {
+        "score": 2,
+        "justification": ""
+      },
+      "G7": {
+        "score": 2,
+        "justification": ""
+      },
+      "G8": {
+        "score": 2,
+        "justification": ""
+      },
+      "G9": {
+        "score": 2,
+        "justification": ""
+      },
+      "G10": {
+        "score": 2,
+        "justification": ""
+      },
+      "G11": {
+        "score": 2,
+        "justification": ""
+      },
+      "G12": {
+        "score": 3,
+        "justification": ""
+      },
+      "G13": {
+        "score": 3,
+        "justification": ""
+      },
+      "G14": {
+        "score": 3,
+        "justification": ""
+      },
+      "G15": {
+        "score": 3,
+        "justification": ""
+      },
+      "G16": {
+        "score": 3,
+        "justification": ""
+      },
+      "G17": {
+        "score": 3,
+        "justification": ""
+      },
+      "G18": {
+        "score": 3,
+        "justification": ""
+      },
+      "G19": {
+        "score": 3,
+        "justification": ""
+      },
+      "G20": {
+        "score": 3,
+        "justification": ""
+      }
+    },
+    "grs": 80,
+    "band": "Advanced"
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G1",
+    "domain_code": "S",
+    "domain_name": "Strategy, Governance & Leadership",
+    "title": "Public commitment",
+    "text": "Has the organisation made a public, time-bound commitment to women's workforce participation (e.g., WEPs signature, published target such as % women in active fleet by a stated year), reviewed at board level?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G2",
+    "domain_code": "S",
+    "domain_name": "Strategy, Governance & Leadership",
+    "title": "Accountable owner and budget",
+    "text": "Is there a named senior owner (CXO or CXO-1) for women's participation with a ring-fenced annual budget, distinct from CSR spend?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G3",
+    "domain_code": "S",
+    "domain_name": "Strategy, Governance & Leadership",
+    "title": "Coverage of non-employees",
+    "text": "Do core policies (POSH, code of conduct, grievance, insurance, safety) explicitly extend to gig partners and third-party dark store staff, not just direct employees?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G4",
+    "domain_code": "H",
+    "domain_name": "Hiring & Advancement",
+    "title": "Targeted sourcing",
+    "text": "Does the organisation run deliberate women-focused sourcing (community organisations, SHGs, skilling partners, women's job platforms, referral bonuses for women referrals) rather than relying on walk-ins and male referral networks?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G5",
+    "domain_code": "H",
+    "domain_name": "Hiring & Advancement",
+    "title": "Low-barrier application",
+    "text": "Can a woman apply and complete onboarding without owning a vehicle, a smartphone with large data plans, or paying upfront onboarding/kit fees, or are financed/subsidised alternatives offered?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G6",
+    "domain_code": "H",
+    "domain_name": "Hiring & Advancement",
+    "title": "Women-cohort onboarding",
+    "text": "Are women onboarded in cohorts or buddied with experienced women workers, rather than as isolated individuals in all-male batches?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G7",
+    "domain_code": "H",
+    "domain_name": "Hiring & Advancement",
+    "title": "Pathways to supervision",
+    "text": "Are there defined, advertised pathways from rider/picker to trainer, shift lead, hub supervisor and city ops, with women's progression tracked against targets?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G8",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "Sanitation",
+    "text": "Does every dark store and hub have a functional, lockable, lit, regularly cleaned toilet available to women on all shifts (including third-party and gig workers), verified by unannounced inspection?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G9",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "Minimum-density staffing",
+    "text": "Is there a policy to staff at least two women per shift per site (avoiding the 'only woman on shift' condition), tracked in rostering systems?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G10",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "SOS and escalation",
+    "text": "Is there an in-app SOS with 24x7 human response, tested response-time SLAs, local escalation (police liaison), and post-incident support, and do women workers know how to use it?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G11",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "Night-work choice architecture",
+    "text": "Are night slots for women strictly opt-in with differentiated safeguards (safer zone allocation, tracked journeys, night allowances, drop-home or escort provisions) rather than either blanket exclusion or unprotected inclusion?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G12",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "POSH extension to gig workers",
+    "text": "Has the organisation constituted its ICC and explicitly extended POSH coverage to gig partners and third-party dark store staff, including harassment by customers, security guards, and co-workers?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G13",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "Earnings floor",
+    "text": "Does the organisation guarantee or track a minimum effective hourly earning (net of costs) at or above state minimum wage for logged-in time, monitored by sex?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G14",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "Pay parity audit",
+    "text": "Has the organisation analysed per-task and per-hour earnings by sex within the same city/category in the last 12 months, investigated gaps, and corrected structural causes?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G15",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "Human review before deactivation",
+    "text": "Is no woman worker deactivated without human review, stated reasons, and an appeal channel with a defined SLA?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G16",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "Penalty-free care interruptions",
+    "text": "Can a worker decline or pause work for care emergencies without acceptance-rate strikes, streak losses, or priority downgrades?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G17",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "Insurance in practice",
+    "text": "Do all women workers have accident, health and life cover that has been successfully claimed, with claim ratios and turnaround times tracked, rather than cover that exists only on paper?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G18",
+    "domain_code": "T",
+    "domain_name": "Transformation, Culture & Ecosystem",
+    "title": "Male ally engagement",
+    "text": "Are male riders, pickers, supervisors and hub staff engaged through structured gender-sensitisation (not one-off webinars), with behavioural expectations enforced?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G19",
+    "domain_code": "T",
+    "domain_name": "Transformation, Culture & Ecosystem",
+    "title": "Certified skilling",
+    "text": "Does the organisation provide certified, portable skilling (digital literacy, EV handling, warehouse tech, supervisory skills) that raises women's earning power beyond the current role?"
+  },
+  {
+    "module_id": "A",
+    "module_name": "Gig Economy & Dark Store Operations",
+    "code": "G20",
+    "domain_code": "T",
+    "domain_name": "Transformation, Culture & Ecosystem",
+    "title": "Disclosure and learning",
+    "text": "Does the organisation publicly disclose women's participation metrics (BRSR Principle 3/8, sustainability reports) and participate in external benchmarks (Fairwork, WEPs GAT)?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W1",
+    "domain_code": "S",
+    "domain_name": "Strategy, Governance & Leadership",
+    "title": "Time-bound participation targets",
+    "text": "Has leadership set public or board-reviewed, site-level targets for women's participation (overall and in night shifts, MHE roles and supervision), with a stated trajectory?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W2",
+    "domain_code": "S",
+    "domain_name": "Strategy, Governance & Leadership",
+    "title": "Operations ownership",
+    "text": "Is the site head, not only HR, accountable for women's hiring, retention and progression, reflected in KRAs and site scorecards?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W3",
+    "domain_code": "S",
+    "domain_name": "Strategy, Governance & Leadership",
+    "title": "Single standard on the floor",
+    "text": "Do contract and agency women access the same toilets, canteen, transport, creche, grievance channels and training as permanent staff?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W4",
+    "domain_code": "H",
+    "domain_name": "Hiring & Advancement",
+    "title": "Women-focused sourcing",
+    "text": "Does hiring use women-reaching channels, community mobilisers, SHG networks, skilling programme partners (e.g., DDU-GKY, sector skill councils), women's ITIs, referral incentives for women, beyond agency walk-ins?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W5",
+    "domain_code": "H",
+    "domain_name": "Hiring & Advancement",
+    "title": "No pink-collar ghetto",
+    "text": "Are women deployed across inbound, picking, sortation, inventory and QA, not confined to packing/VAS lines, with deployment mix monitored?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W6",
+    "domain_code": "H",
+    "domain_name": "Hiring & Advancement",
+    "title": "MHE access",
+    "text": "Are women trained, licensed and rostered on forklifts, reach trucks and BOPTs, with targets for women MHE operators and no informal 'women don't drive' norms?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W7",
+    "domain_code": "H",
+    "domain_name": "Hiring & Advancement",
+    "title": "Supervisory pipeline",
+    "text": "Is there a defined, resourced pathway from associate to team lead to shift in-charge, with women's representation at each step tracked against targets and structured readiness training (not just informal nomination)?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W8",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "Toilets at scale",
+    "text": "Do women's toilets meet or exceed Factories Act/NBC ratios at peak-shift female headcount (not average), functional, lockable, lit, with disposal facilities and verified cleaning schedules?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W9",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "Creche and lactation",
+    "text": "Is the statutory creche (50+ employees) operational, quality-assured, open across shifts worked by women, with a hygienic lactation room, and is utilisation tracked with barriers investigated?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W10",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "Safe commute provision",
+    "text": "Is company or contracted transport provided for shifts where public transport is inadequate, with routes covering women's residential clusters, GPS tracking, and last-mile door-drop for late hours?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W11",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "Lawful night-shift authorisation",
+    "text": "Has the site obtained the applicable state permission for women's night work and implemented every notified condition (written consent, transport, security, cohort minimums, welfare facilities)?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W12",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "POSH institutional quality",
+    "text": "Is the ICC properly constituted (presiding woman officer, external member), trained, covering contract and agency workers explicitly, meeting statutory timelines, and filing annual returns?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W13",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "Equal remuneration compliance",
+    "text": "Is equal pay for same/similar work verified across sexes and across employment categories doing identical tasks, per the Code on Wages/Equal Remuneration provisions, with gaps analysed and corrected annually?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W14",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "Wage integrity for contract women",
+    "text": "Are contract women workers' wages paid fully, on time, into their own accounts, with no gendered deductions, recruitment fees or ghost-rolls, verified against contractor records?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W15",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "Maternity Benefit Act delivery",
+    "text": "Are 26 weeks' paid maternity leave, nursing breaks, work-from-home options where feasible, and no-dismissal protections delivered in practice, including a documented approach for fixed-term and contract women?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W16",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "Social security pass-through",
+    "text": "Are ESI, PF and gratuity contributions verified for every woman worker including agency workers, with workers able to see their own accounts?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W17",
+    "domain_code": "T",
+    "domain_name": "Transformation, Culture & Ecosystem",
+    "title": "Supervisor capability",
+    "text": "Are all supervisors and team leads trained in managing mixed-gender teams, unconscious bias, and respectful floor conduct, with refreshers and effectiveness measured?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W18",
+    "domain_code": "T",
+    "domain_name": "Transformation, Culture & Ecosystem",
+    "title": "Anti-harassment climate",
+    "text": "Do confidential surveys/FGDs show women feel safe from verbal abuse, unwanted contact and hostile behaviour on the floor, in canteens and in transport?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W19",
+    "domain_code": "T",
+    "domain_name": "Transformation, Culture & Ecosystem",
+    "title": "Public disclosure",
+    "text": "Are women's participation, pay-gap and POSH metrics disclosed in BRSR/sustainability reporting with year-on-year trends?"
+  },
+  {
+    "module_id": "B",
+    "module_name": "Warehousing & Fulfilment",
+    "code": "W20",
+    "domain_code": "T",
+    "domain_name": "Transformation, Culture & Ecosystem",
+    "title": "Audit-to-action loop",
+    "text": "Is there an annual gender review where FGD findings, Part A trends and incident data produce a revised action plan with owners and budgets?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S1",
+    "domain_code": "S",
+    "domain_name": "Strategy, Governance & Leadership",
+    "title": "Business-case conviction",
+    "text": "Has the owner/management articulated why hiring women serves the business (labour availability, quality, retention, buyer requirements), a stated intention communicated to supervisors, not a private sentiment?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S2",
+    "domain_code": "S",
+    "domain_name": "Strategy, Governance & Leadership",
+    "title": "A number and a date",
+    "text": "Has the enterprise set even a simple target (e.g., '30% women by next Diwali season') and reviewed progress at least quarterly?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S3",
+    "domain_code": "S",
+    "domain_name": "Strategy, Governance & Leadership",
+    "title": "POSH compliance for size",
+    "text": "If 10+ workers: is an Internal Committee constituted with the required external member and woman presiding officer, displayed, and trained? If under 10: do workers know the Local Committee route and does the owner know their POSH duties?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S4",
+    "domain_code": "H",
+    "domain_name": "Hiring & Advancement",
+    "title": "Beyond-referral sourcing",
+    "text": "Does the enterprise recruit women through channels beyond male workers' family referrals, local SHGs, anganwadi/ASHA networks, skilling centres, ITIs, community mobilisers, or 'bring a friend' incentives aimed at women?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S5",
+    "domain_code": "H",
+    "domain_name": "Hiring & Advancement",
+    "title": "Trial and flexible entry",
+    "text": "Can women enter through low-risk routes, paid trial days, part-day shifts, seasonal-to-regular conversion, rather than an all-or-nothing full-time offer?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S6",
+    "domain_code": "H",
+    "domain_name": "Hiring & Advancement",
+    "title": "Machine access",
+    "text": "Are women trained and deployed on the enterprise's core machines and higher-value operations, not held permanently at helper/finishing/packing grade while men run machines?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S7",
+    "domain_code": "H",
+    "domain_name": "Hiring & Advancement",
+    "title": "Women in charge",
+    "text": "Has the enterprise promoted women to line-in-charge, quality-in-charge or supervisor roles, and are current promotion candidates identified?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S8",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "Functional separate toilet",
+    "text": "Is there a separate, functional, lockable, lit women's toilet with water, cleaned daily, the single most cited make-or-break facility in SME FGDs?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S9",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "Menstrual dignity",
+    "text": "Can women access sanitary products at or near the workplace, dispose of them hygienically, and take short breaks without wage penalty or comment?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S10",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "Fire and emergency",
+    "text": "Are exits unlocked and unobstructed, extinguishers live, and do women workers know the evacuation routine, with an assembly practice done at least annually?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S11",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "Commute reality",
+    "text": "Has the enterprise addressed commute barriers proportionately, shift timings aligned to bus/train schedules and daylight in winter, cycle parking, group-travel coordination, or pooled auto/van arrangements for evening dispatch seasons?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S12",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "A route that works",
+    "text": "Does a woman facing harassment or abuse have a route she trusts, IC where applicable, a named respected person otherwise, and the owner's demonstrated willingness to act even against valued male workers, relatives or customers?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S13",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "Equal pay for equal work",
+    "text": "Are men and women paid the same rate for the same operation (time-rate and piece-rate both), verified from wage records rather than asserted?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S14",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "Payment into her account",
+    "text": "Are wages paid on a fixed date into the woman's own bank account (not cash to a male relative), with a payslip or SMS record however simple?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S15",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "Predictable hours",
+    "text": "Are working hours and weekly offs regular and known in advance, with seasonal surges managed by consent and lawful OT (double rate) rather than compulsion?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S16",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "ESI/PF enrolment",
+    "text": "Where thresholds apply, are all eligible women enrolled in ESI and PF with contributions current, and where below threshold, are workers helped onto e-Shram and state welfare boards?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S17",
+    "domain_code": "T",
+    "domain_name": "Transformation, Culture & Ecosystem",
+    "title": "Supervisor conduct",
+    "text": "Do supervisors (often the owner's long-tenured men) treat women workers with respect, allocate work fairly, and accept women's authority when women hold in-charge roles?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S18",
+    "domain_code": "T",
+    "domain_name": "Transformation, Culture & Ecosystem",
+    "title": "Worker voice",
+    "text": "Is there any regular mechanism, monthly meeting, suggestion register, informal darbar, where women raise issues and can point to something that changed as a result?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S19",
+    "domain_code": "T",
+    "domain_name": "Transformation, Culture & Ecosystem",
+    "title": "Buyer-facing readiness",
+    "text": "Can the enterprise credibly answer buyer and BRSR value-chain questionnaires on workforce gender data, POSH and wages, turning inclusion into order-winning capability?"
+  },
+  {
+    "module_id": "C",
+    "module_name": "Small & Medium Enterprises",
+    "code": "S20",
+    "domain_code": "T",
+    "domain_name": "Transformation, Culture & Ecosystem",
+    "title": "Annual self-review",
+    "text": "Does the enterprise re-examine its Part A numbers at least annually, even informally, and set the next year's improvement actions?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E1",
+    "domain_code": "S",
+    "domain_name": "Strategy, Governance & Leadership",
+    "title": "Gender in EV strategy",
+    "text": "Do the organisation's EV business plans, new-plant proposals and expansion cases contain explicit women's-workforce targets and budgets, approved at board level?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E2",
+    "domain_code": "S",
+    "domain_name": "Strategy, Governance & Leadership",
+    "title": "Accountable executive",
+    "text": "Is a named CXO/CXO-1 accountable for women's participation across segments, with KRAs, a budget, and quarterly review?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E3",
+    "domain_code": "H",
+    "domain_name": "Hiring & Advancement",
+    "title": "EV-skills training with targets",
+    "text": "Do EV-specific training programmes (battery assembly, BMS, power electronics, charging O&M, EV servicing) carry women's participation targets of at least 30%, with completion and placement tracked?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E4",
+    "domain_code": "H",
+    "domain_name": "Hiring & Advancement",
+    "title": "Inclusive recruitment design",
+    "text": "Are job descriptions, physical criteria, campus slates and interview panels audited for gender bias, with women on panels and no unjustified requirements (prior automotive experience where trainable, blanket physical bars)?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E5",
+    "domain_code": "H",
+    "domain_name": "Hiring & Advancement",
+    "title": "Promotion equity",
+    "text": "Are promotion rates by sex tracked at every grade in every segment, with women's progression into line supervision, plant management, network operations and engineering leadership reviewed against targets?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E6",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "Facilities at target scale",
+    "text": "Are toilets, changing rooms, restrooms, creches and canteens at every plant and hub sized for the targeted (not current) women's workforce, functional on all shifts, and verified by inspection?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E7",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "Charging/swap site safety standard",
+    "text": "Is there a women's-safety design standard for charging and swap sites, lighting, CCTV, visibility from street, sanitation within or near the site, emergency response, applied to both staff and women customers/drivers?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E8",
+    "domain_code": "I",
+    "domain_name": "Infrastructure, Safety & Facility Design",
+    "title": "POSH across the network",
+    "text": "Is the ICC architecture extended across plants, dealerships, field teams and fleet operations, with channels tested and cases resolved within statutory timelines and zero retaliation verified?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E9",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "Equal remuneration verified",
+    "text": "Is equal pay for equal work verified annually across sexes and employment categories in every segment, per the Code on Wages, with published internal results?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E10",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "Maternity and return",
+    "text": "Are Maternity Benefit Act entitlements delivered with risk-assessed job modification (especially around battery/chemical work) and a tracked return-to-work programme?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E11",
+    "domain_code": "F",
+    "domain_name": "Fair Work, Pay & Social Protection",
+    "title": "Asset access for women drivers",
+    "text": "Can women access EV assets without male guarantors, through lease-to-own, subsidised deposits, partnerships with financiers open to thin-file women borrowers, and priority in fleet allocation?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E12",
+    "domain_code": "T",
+    "domain_name": "Transformation, Culture & Ecosystem",
+    "title": "Visible technical role models",
+    "text": "Are women engineers, line supervisors, technicians and fleet captains visible in the organisation's employer brand, product marketing and industry presence, normalising women in technical EV identity?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E13",
+    "domain_code": "T",
+    "domain_name": "Transformation, Culture & Ecosystem",
+    "title": "Disclosure and benchmarking",
+    "text": "Are women's participation metrics across the value chain disclosed publicly (BRSR, sustainability reports, investor decks) and benchmarked externally (WEPs GAT or equivalent)?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E14",
+    "domain_code": "V",
+    "domain_name": "Value Chain (EV segments)",
+    "title": "Women in core engineering",
+    "text": "Are women present in battery, BMS, power electronics, vehicle integration and software teams at or above 25%, with representation in technical leadership and patent/publication authorship tracked?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E15",
+    "domain_code": "V",
+    "domain_name": "Value Chain (EV segments)",
+    "title": "Women's share of the new factory wave",
+    "text": "Do cell/pack/component plants (including PLI-funded capacity) set and meet women's participation targets of at least 30% on the shop floor, with the enabling infrastructure of Domain I in place from commissioning?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E16",
+    "domain_code": "V",
+    "domain_name": "Value Chain (EV segments)",
+    "title": "Majority-women line capability",
+    "text": "Has the organisation demonstrated (or planned with dates) women-majority assembly lines, following Indian EV 2W precedents, with productivity and quality data captured?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E17",
+    "domain_code": "V",
+    "domain_name": "Value Chain (EV segments)",
+    "title": "Women in dealer sales and service",
+    "text": "Does the dealer/franchise network employ women as sales consultants, service advisors and EV technicians, with network-level targets, training and POSH coverage?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E18",
+    "domain_code": "V",
+    "domain_name": "Value Chain (EV segments)",
+    "title": "Women in network jobs",
+    "text": "Are women employed as charge-point technicians, swap-station attendants, network operations and maintenance staff, with targets and the field-safety protocols of Domain I?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E19",
+    "domain_code": "V",
+    "domain_name": "Value Chain (EV segments)",
+    "title": "Women driver corps at scale",
+    "text": "Does the fleet operation recruit, license, train and retain women 2W/3W/4W drivers with published targets, including licence acquisition support given women hold under 1% of commercial licences?"
+  },
+  {
+    "module_id": "D",
+    "module_name": "Women in the EV Value Chain",
+    "code": "E20",
+    "domain_code": "V",
+    "domain_name": "Value Chain (EV segments)",
+    "title": "Women-owned supplier development",
+    "text": "Is there a supplier-diversity commitment with counted spend on women-owned enterprises across components, services and logistics, with capacity-building to grow that base?"
+  }
+]
